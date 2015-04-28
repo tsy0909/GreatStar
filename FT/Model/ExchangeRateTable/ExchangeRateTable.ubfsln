@@ -1,0 +1,9 @@
+<Solution>
+  <SourceControl>
+  </SourceControl>
+  <ItemGroup>
+    <Item id="2cf89bfc-702d-4cd0-b590-67128fe26069" include="ExchangeRateTableBE\ExchangeRateTableBE.ubfmlproj" />
+    <Item id="e30fe1e8-62fe-424e-9f79-b91b7bbc2958" include="ExchangeRateTableUI\ExchangeRateTableUI.ubfuiproj" />
+  </ItemGroup>
+  <ServiceGroupInfo id="a387973c-671f-4f50-b9e0-5710c359fc01" name="ExchangeRateTable" displayName="ExchangeRateTable" description="" help="" fullPath="D:\U9\U9Proj-Empty\GreatStar\FT\Model\ExchangeRateTable\ExchangeRateTable.sg" applicationID="" />
+</Solution>
