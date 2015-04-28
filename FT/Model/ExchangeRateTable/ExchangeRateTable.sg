@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<ServiceGroup>
-  <ServiceGroupInfo id="a387973c-671f-4f50-b9e0-5710c359fc01" name="ExchangeRateTable" displayName="ExchangeRateTable" description="" help="" fullPath="D:\U9\U9Proj-Empty\GreatStar\FT\Model\ExchangeRateTable\ExchangeRateTable.sg" applicationID="" />
-  <AssemblyGroup>
-    <Assembly ID="7b9cdff6-420f-4c51-8716-f448cc331f97" name="UFIDA.U9.Cust.GS.FT.FTBEtsy" type="BE" path="" />
-    <Assembly ID="2f51c45d-43ec-49d3-8264-28a310a8f96b" name="U9.VOB.Cust.GS.FT.ExchangeRatetableU" type="UI" path="" />
-  </AssemblyGroup>
-</ServiceGroup>
