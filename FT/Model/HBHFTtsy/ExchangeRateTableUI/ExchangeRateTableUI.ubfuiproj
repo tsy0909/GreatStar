@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project id="66374e5e-83cf-4137-801e-a1c375828131" name="ExchangeRateTableUI" displayName="ExchangeRateTableUI" description="" help="" type="UI" assemblyName="ExchangeRateTableUI" mapProject="" resourceName="" projectVersion="Normal">
+  <Imports>
+    <Import id="da6bc29d-c1b0-4239-b69d-5c3b53eef910" name="BaseBE" displayName="BaseBE" description="" help="" componentid="c63d160d-c4a3-4696-b03b-d16dd5b01ae9" path="..\..\..\..\..\UBFV30\U9.VOB.Product.Metadata\UBF\UFIDA.U9.Base.BaseBE.MetaData.dll" type="BE" isRuntime="True" />
+    <Import id="b1bfa6f7-ce6f-4dcf-8b92-9cd67ff78639" name="ResidualTableBE" displayName="ResidualTableBE" description="" help="" componentid="90100b31-0c6a-4b32-b10d-d3fdd4d8b25b" path="..\..\..\..\..\UBFV30\U9.VOB.Product.Metadata\Unconfiged\Metadata\ResidualTableBE.MetaData.dll" type="BE" isRuntime="True" />
+    <Import id="b08275e1-41c3-483d-b83c-9efb02e595e1" name="CBO_PubBE" displayName="CBO_PubBE" description="" help="" componentid="cfeda988-7498-47e0-9c1d-7c76ccb2028e" path="..\..\..\..\..\UBFV30\U9.VOB.Product.Metadata\App\UFIDA.U9.CBO.PubBE.MetaData.dll" type="BE" isRuntime="True" />
+  </Imports>
+  <SourceControl />
+  <ItemGroup>
+    <Item id="09ac3b92-21ed-43bd-92db-bf56d6c58306" name="ExchangeRateTableUI.ubfuim" displayName="ExchangeRateTableUI.ubfuim" description="" help="" include="ExchangeRateTableUI.ubfuim" type="" />
+    <Item id="8ccb2626-f3de-4bb8-80d6-1a86b3b28bfc" name="ExchanggeRateTableUIModel.ubfform" displayName="ExchanggeRateTableUIModel.ubfform" description="" help="" include="ExchanggeRateTableUIModel.ubfform" type="" />
+    <Item id="06fc1ede-d1cc-4b38-ab33-0f2a9c84fdfb" name="CurrencyRef.ubfref" displayName="CurrencyRef.ubfref" description="" help="" include="CurrencyRef.ubfref" type="" />
+    <Item id="f844fc0d-7025-401f-9c57-c3077c00690c" name="ResidualTableUI.ubfuim" displayName="ResidualTableUI.ubfuim" description="" help="" include="ResidualTableUI.ubfuim" type="" />
+    <Item id="b82f5d9d-0c56-41ec-a5dc-155f814da1ab" name="ResidualTableUIModel.ubfform" displayName="ResidualTableUIModel.ubfform" description="" help="" include="ResidualTableUIModel.ubfform" type="" />
+    <Item id="b743bb5e-4e9e-41e1-8c59-079f29191cb1" name="ClassificationRef.ubfref" displayName="ClassificationRef.ubfref" description="" help="" include="ClassificationRef.ubfref" type="" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Component id="55b42f48-6d4e-47c7-8b19-09124d573884" name="InvoiceNumberGroupBE" displayName="InvoiceNumberGroupBE" description="" help="" type="BE" assemblyName="ExchangeRateTableBE">
+  <Namespace id="4609d3bb-32ef-465a-8909-4ede40cefde4" name="InvoiceNumberGroupBE" displayName="InvoiceNumberGroupBE" description="" help="">
+    <Diagram name="InvoiceNumberGroupBE" displayName="InvoiceNumberGroupBE" />
+  </Namespace>
+</Component>

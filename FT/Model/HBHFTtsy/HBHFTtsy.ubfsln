@@ -1,0 +1,9 @@
+<Solution>
+  <SourceControl>
+  </SourceControl>
+  <ItemGroup>
+    <Item id="ab9ae368-654c-4763-b6f1-7ec5ce98accc" include="ExchangeRateTableBE\ExchangeRateTableBE.ubfmlproj" />
+    <Item id="61ca8edf-4e2f-43a5-8e35-5e8e0ddc1bf8" include="ExchangeRateTableUI\ExchangeRateTableUI.ubfuiproj" />
+  </ItemGroup>
+  <ServiceGroupInfo id="07f0b8fc-3cf0-4178-b158-ea9707d0ad8d" name="HBHFTtsy" displayName="HBHFTtsy" description="" help="" fullPath="D:\U9\U9Proj-Empty\GreatStar\FT\Model\HBHFTtsy\HBHFTtsy.ubfsln" applicationID="" />
+</Solution>
